@@ -1,0 +1,26 @@
+Click on 'Add Coverage'
+
+1. Click on paddock areas to add coverage
+ ![Tracmap Add Coverage](addCoverage.png "Tracmap Add Coverage" )
+2. Treatment total (Top left)
+3. Click 'Products' (Left side)
+
+ Add Product
+1. Enter product name
+2. Enter rate
+
+![Tracmap Add Products](addProducts.png "Tracmap Add Products" )
+
+ Estimated product total
+![Tracmap Product total](productTotal.png "Tracmap Product Total" )
+
+1. Enter estimated product total
+2. Click 'Calculate Rate'
+
+ Application Rate
+![Tracmap Application Rate](applicationRate.png "Tracmap Application Rate" )
+
+1. The rate is then locked in
+2. Click 'Submit'
+3. Click 'Confirm'
+4. Create another order or return to the last screen
